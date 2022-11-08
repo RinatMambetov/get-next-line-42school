@@ -3,5 +3,4 @@ Reading a line from a fd is way too tedious.<br><br>
 This project will not only allow you to add a very convenient function to your collection,
 but it will also make you learn a highly interesting new concept in C programming: static
 variables.<br><br>
-![gnl-show](https://github.com/RinatMambetov/get-next-line-42school/blob/main/gnl_show.mp4)
-
+[![gnl_show-1.gif](https://s4.gifyu.com/images/gnl_show-1.gif)](https://gifyu.com/image/SE04s)
